@@ -20,11 +20,22 @@ router.get('/', (req, res) => {
 });
 
 router.get('/:id', (req, res) => {
-  // find a single tag by its `id`
-  Tag.findByPk(req.params.id).then((tagData) => {
+  // find a single product by its `id`
+  // be sure to include its associated Category and Tag data
+  Tag.findOne({
+    where: {
+      id :req.params.id
+    },
+    include: [
+      {
+      model: Product,
+      
+      },
+      ]
+  }).then((tagData) => {
     res.json(tagData);
   });
-  // be sure to include its associated Product data
+  // be sure to include its associated Category and Tag data
 });
 
 router.post('/', (req, res) => {
