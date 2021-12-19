@@ -39,9 +39,9 @@ run the following to start the prompts and use the site:
 5. npm start
 6. open insomnia to visit and use the api routes.
 
-## Contribution Guidelines:
+## Contributions:
 
-[https://www.github/hkapk] Hank
+https://www.github/hkapk
 
 ## Test Instructions:
 
