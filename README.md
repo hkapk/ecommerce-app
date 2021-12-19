@@ -10,6 +10,10 @@ To get all Products, Categories or Tags:
 
 https://user-images.githubusercontent.com/90150749/146683230-35161a74-548b-4d0e-8406-48560ffa199d.mp4
 
+To get a product, category or tag by it's id:
+
+https://user-images.githubusercontent.com/90150749/146684195-b6156c2f-402f-4662-b6da-923042718891.mp4
+
 ### Table of Contents
 
 - [Description](#description)
