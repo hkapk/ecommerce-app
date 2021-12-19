@@ -7,6 +7,7 @@ https://github.com/hkapk/ecommerce-app
 This is a backend website that uses mysql2 and sequelize to connect and Express.API to a MySQL database. A dotenv package is used to store environment variables. Associations are built within models to establish relationships between products, categories and tags. Please view the videos below, which display the functionality of the page.
 
 To get all Products, Categories or Tags:
+
 https://user-images.githubusercontent.com/90150749/146683230-35161a74-548b-4d0e-8406-48560ffa199d.mp4
 
 ### Table of Contents
@@ -40,7 +41,7 @@ run the following to start the prompts and use the site:
 
 ## Contribution Guidelines:
 
-[https://www.github/hkapk]Hank
+[https://www.github/hkapk] Hank
 
 ## Test Instructions:
 
