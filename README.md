@@ -22,6 +22,10 @@ To create, read, update, destroy any category, product or tag:
 
 https://user-images.githubusercontent.com/90150749/146687581-c8cbd077-38f3-4ca4-aeb3-4e526239b2c5.mp4
 
+Here is a link to a youtube video demonstration the full functionality:
+
+https://www.youtube.com/watch?v=SIvhIRcSj8c&ab_channel=kenryhapka
+
 ### Table of Contents
 
 - [Description](#description)
